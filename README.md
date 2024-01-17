@@ -1,6 +1,6 @@
 ### Hi there 👋
 📢🎈🎀←great furikake 
-c++, arduino sketches, html&CSS&JS/PHP(hardly write),,, does anyone have any ideas to write?<br>
+c++, arduino sketches, html&CSS&JS/PHP(hardly write),,,<br>
 'Wait, it's all Hastune Miku?' <b>>ALWAYS HAS BEEN<</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccrenon2&show_icons=true&theme=radical)
