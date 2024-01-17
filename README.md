@@ -3,7 +3,7 @@
 c++, arduino sketches, html&CSS&JS/PHP(hardly write),,,<br>
 'Wait, it's all Hastune Miku?' <b>>ALWAYS HAS BEEN<</b>
 
-[![Twitter](https://img.shields.io/badge/twitter-@39renon_3939?logo=Twitter)](https://twitter.com/39renon_3939)
+[![Twitter](https://img.shields.io/badge/twitter-@39renon_3939-1DA1F2?logo=Twitter)](https://twitter.com/39renon_3939)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccrenon2&show_icons=true&theme=radical)
 
