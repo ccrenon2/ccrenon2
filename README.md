@@ -1,5 +1,5 @@
 ### Hi there 👋
-📢🎈🎀←great furikake
+📢🎈🎀←great furikake  
 c++, arduino sketches, html&CSS&JS/PHP(hardly write),,, does anyone have any ideas to write?<br>
 'Wait, it's all Hastune Miku?' <b>>ALWAYS HAS BEEN<</b>
 
