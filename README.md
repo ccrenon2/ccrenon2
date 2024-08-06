@@ -1,7 +1,7 @@
 ### Hi there 👋
 📢🎈🎀←great furikake 
-c++, arduino sketches, html&CSS&JS/PHP(hardly write),,,<br>
-'Wait, it's all Hastune Miku?' <b>>ALWAYS HAS BEEN<</b>
+c++, arduino sketches, html&CSS&JS/PHP<br>
+'Wait, it's all Hastune Miku?' <b>ALWAYS HAS BEEN</b>
 
 [![Twitter](https://img.shields.io/badge/twitter-@39renon_3939-1DA1F2?logo=Twitter)](https://twitter.com/39renon_3939)
 
